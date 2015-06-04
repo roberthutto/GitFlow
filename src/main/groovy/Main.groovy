@@ -1,6 +1,6 @@
 /**
-*  Created by robert on 6/4/15 .
-*/
+ * Created by robert on 6/4/15.
+ */
 class Main {
 
 
@@ -9,5 +9,4 @@ class Main {
         println 'Hello world Master'
 
     }
-
 }
