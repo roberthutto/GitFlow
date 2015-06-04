@@ -6,6 +6,8 @@ class Main {
 
     static void main(String ... args) {
 
+        def hasmap = new HashMap<String, String>()
+        hasmap.put('test', 'test')
         println 'Hello world Master'
 
     }
